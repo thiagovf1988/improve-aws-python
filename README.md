@@ -1,3 +1,7 @@
 # improve-aws-python
 
-improve-aws-python _* 12xxxxx1 *_
+repository for cloud on aws _* automate aws with python *_
+
+## webtr
+
+its a script to sync s3, route 53 and cloudfront
